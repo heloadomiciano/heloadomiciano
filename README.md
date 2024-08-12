@@ -4,12 +4,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about músicas
-- 📫 How to reach me: heloaferreira@icloud.com
-- 😄 Pronouns: ela/dela
-- ⚡ Fun fact: gosto de ler
--->
+-  Estou estudando na Alura
+-  Estou me desenvolvendo na linguagem JavaScript
+-  Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+
+## Você pode entrar em contato comigo 📫
+heloaferreira@icloud.com
+@heloaf.22
+
