@@ -1,6 +1,6 @@
-## Oie, boas vindas ao meu perfil! 👋
+# Oie, boas vindas ao meu perfil! 👋
 
-# Meu nome é Heloá Domiciano
+## Meu nome é Heloá Domiciano
 
 Here are some ideas to get you started:
 
